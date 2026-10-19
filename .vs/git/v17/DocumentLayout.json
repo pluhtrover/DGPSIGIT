@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|c:\\users\\127444\\source\\repos\\git\\git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|C:\\Users\\127444\\source\\repos\\git\\git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "git\\Form1.cs",
               "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Form1.cs",
               "RelativeToolTip": "git\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T15:10:22.225Z",
               "EditorCaption": ""
