@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\127444\\source\\repos\\git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|c:\\users\\127444\\source\\repos\\git\\git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|c:\\users\\127444\\source\\repos\\git\\git\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|c:\\users\\127444\\source\\repos\\git\\git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|C:\\Users\\127444\\source\\repos\\git\\git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|C:\\Users\\127444\\source\\repos\\git\\git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|C:\\Users\\127444\\source\\repos\\git\\git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|c:\\users\\127444\\source\\repos\\git\\git\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|c:\\users\\127444\\source\\repos\\git\\git\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C7AFDC-28C8-4D42-BEAE-A23053E6F731}|git\\git.csproj|solutionrelative:git\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,36 +41,89 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Class1.cs",
+              "RelativeDocumentMoniker": "git\\Class1.cs",
+              "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Class1.cs",
+              "RelativeToolTip": "git\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:28:18.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Form2.cs",
+              "RelativeDocumentMoniker": "git\\Form2.cs",
+              "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Form2.cs",
+              "RelativeToolTip": "git\\Form2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:46:06.012Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Signup.cs",
+              "RelativeDocumentMoniker": "git\\Signup.cs",
+              "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Signup.cs",
+              "RelativeToolTip": "git\\Signup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:35:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Signup.cs",
+              "RelativeDocumentMoniker": "git\\Signup.cs",
+              "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Signup.cs [Design]",
+              "RelativeToolTip": "git\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:27:14.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Form1.cs",
               "RelativeDocumentMoniker": "git\\Form1.cs",
               "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Form1.cs",
               "RelativeToolTip": "git\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T15:10:22.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Form2.cs",
               "RelativeDocumentMoniker": "git\\Form2.cs",
               "ToolTip": "C:\\Users\\127444\\source\\repos\\git\\git\\Form2.cs [Design]",
               "RelativeToolTip": "git\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T14:49:04.683Z"
+              "WhenOpened": "2026-10-19T14:49:04.683Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127444\\source\\repos\\git\\git\\Form1.cs",
               "RelativeDocumentMoniker": "git\\Form1.cs",
