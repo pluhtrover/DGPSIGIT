@@ -19,12 +19,22 @@ namespace git
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Form2 f1 = new Form2();
+            f1.Show();
             //blel
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             button1.Enabled = true; 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 f1 = new Form2();
+            f1.Show();
+            /////////
+            MessageBox.Show("Teste");
         }
     }
 }
