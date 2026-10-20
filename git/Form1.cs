@@ -19,7 +19,7 @@ namespace git
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f1 = new Form2();
+            Signup f1 = new Signup();
             f1.Show();
             //blel
         }
@@ -33,8 +33,7 @@ namespace git
         {
             Form2 f1 = new Form2();
             f1.Show();
-            /////////
-            MessageBox.Show("Teste");
+      
         }
     }
 }

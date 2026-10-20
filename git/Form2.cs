@@ -16,5 +16,19 @@ namespace git
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            bool warning = true;
+            for (int i = 0; i < Class1.User.Length; i++)
+            {
+                if (textBox1.Text == Class1.User[i]) { textBox1.Text = Class1.usert; break; warning = false; }
+            }
+            if (warning == true)
+            {
+                MessageBox.Show("Username already in use");
+            }
+
+        }
     }
 }
